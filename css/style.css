@@ -1,0 +1,64 @@
+.container {
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+.logo {
+    font-size: 34px;
+    letter-spacing: 2px;
+    line-height: 77px;
+    color: #060c31;
+    font-weight: 400;
+    font-family: "Crete Round";
+}
+
+.title {
+    padding-top: 86px;
+    font-size: 58px;
+    letter-spacing: 3px;
+    line-height: 64px;
+    color: #060c31;
+    font-weight: 400;
+    font-family: "Crete Round";
+    width: 492px;
+}
+
+.subtitle {
+    padding-top: 33px;
+    width: 421px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    line-height: 28px;
+    color: #060c31;
+    font-weight: 400;
+    font-family: "Lato";
+    padding-bottom: 46px;   
+}
+
+.buttonblue { 
+    display: inline-block;
+    width: 152px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #233fe2;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Lato";
+    margin-right: 19px; 
+    cursor: pointer;
+}
+
+
+
+.buttonred {     
+    display: inline-block;
+    width: 164px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #ffffff;
+    border: 1px solid #ffb0b1;
+    cursor: pointer;
+}
